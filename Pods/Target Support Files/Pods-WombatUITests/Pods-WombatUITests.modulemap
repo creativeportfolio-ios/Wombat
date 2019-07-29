@@ -1,0 +1,6 @@
+framework module Pods_WombatUITests {
+  umbrella header "Pods-WombatUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

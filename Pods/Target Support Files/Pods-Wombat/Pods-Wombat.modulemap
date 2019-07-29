@@ -1,0 +1,6 @@
+framework module Pods_Wombat {
+  umbrella header "Pods-Wombat-umbrella.h"
+
+  export *
+  module * { export * }
+}
